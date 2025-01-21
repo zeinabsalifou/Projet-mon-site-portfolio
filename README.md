@@ -1,5 +1,6 @@
 # Projet-mon-site-portfolio
 Ce dépôt contient le code source de mon site portfolio personnel, conçu pour présenter mes compétences, mon CV, expériences, projets en sciences de données, modélisation du risque de crédit et en développement web.
+### Lien du site: https://zeinabsalifou.netlify.app/
 
 # Fonctionnalités
 ### Présentation personnelle : 
